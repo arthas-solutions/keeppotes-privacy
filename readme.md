@@ -323,7 +323,7 @@ En cas de perte, de vol ou de compromission de l’appareil, l’utilisateur doi
 
 Les fiches KeepPotes ne sont pas envoyées automatiquement à Arthas Solutions.
 
-Toutefois, lorsqu’un utilisateur contacte volontairement Arthas Solutions à l’adresse **contact@artas.fr**, les informations suivantes peuvent être reçues :
+Toutefois, lorsqu’un utilisateur contacte volontairement Arthas Solutions à l’adresse **contact@arthas.fr**, les informations suivantes peuvent être reçues :
 
 - son nom ou pseudonyme ;
 - son adresse électronique ;
@@ -422,7 +422,7 @@ Concernant les informations volontairement transmises à Arthas Solutions, notam
 
 Toute demande peut être adressée à :
 
-**contact@artas.fr**
+**contact@arthas.fr**
 
 Une preuve d’identité pourra être demandée uniquement lorsque cela est nécessaire pour éviter la communication d’informations à une personne non autorisée.
 
@@ -628,4 +628,4 @@ Pour toute question concernant KeepPotes, la présente politique de confidential
 
 **Stéphane POULAIN**  
 **Arthas Solutions**  
-**Adresse électronique : contact@artas.fr**
+**Adresse électronique : contact@arthas.fr**
