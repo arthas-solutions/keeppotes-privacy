@@ -8,7 +8,7 @@ KeepPotes est éditée par :
 
 **Stéphane POULAIN**  
 **Arthas Solutions**  
-**Adresse électronique : contact@artas.fr**
+**Adresse électronique : contact@arthas.fr**
 
 ---
 
